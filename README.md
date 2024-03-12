@@ -1,2 +1,2 @@
 # mywebsite
-This is myunsite with all details about me 
+This is my web site with all details about me 
